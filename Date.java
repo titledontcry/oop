@@ -32,7 +32,7 @@ public class Date {
     }
     
     public int getYear() {
-        return year + 543; // เปลี่ยนปี ค.ศ. เป็น พ.ศ.
+        return year + 543;
     }
     
     public void setYear(int year) {
