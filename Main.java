@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // 1.2 กำหนดตัวแปร Product สำหรับเก็บสินค้า 5 ชนิด
         Product[] products = new Product[5];
         
         products[0] = new Product(0,"Mama",5.5);
